@@ -30,7 +30,7 @@
 
 ### 🔍 Sobre mim
 - 🎓 Apaixonado por aprendizado contínuo
-- 📌 Interesse por desenvolvimento **backend** e **fullstack**
+- 📌 Interesse por desenvolvimento **frotend**, **backend** e **fullstack**
 - 🛠️ Sempre buscando melhorar a qualidade do código
 
 ---
