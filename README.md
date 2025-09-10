@@ -27,6 +27,8 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=braulefernandes&show_icons=true&theme=aura&include_all_commits=true&count_public=true"/>
+  
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braulefernandes&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
