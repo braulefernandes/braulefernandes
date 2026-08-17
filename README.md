@@ -1,8 +1,6 @@
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:6b7280&height=120&section=header&animation=fadeIn"/>
   
-<br/>
-
 <img
 src="https://readme-typing-svg.demolab.com?font=Geist&weight=600&size=34&duration=3000&pause=1000&color=F8FAFC&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Braule!;"
 alt="Typing SVG"
@@ -153,5 +151,4 @@ Soluções completas, conectando interface, servidor e dados.
 
 Aberto a trocar ideias sobre **tecnologia, desenvolvimento de software, projetos e novas oportunidades**.
 
-<br/>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:6b7280&height=120&section=footer&animation=fadeIn"/>
